@@ -18,7 +18,6 @@ Hi, I'm Adrián Ramírez!
 📚 I have a Superior degree in cross-platform application development from the Institute Nicolau Copernic at Spain
 📝 I have a strong interest in Data Science
 🌟 Main languages: Java, HTML, SQL
-🚩 Interested in Full Stack Machine Learning Application development
 🤔 I’m currently open for a new <b>job opportunity</b>
 </pre>
 <hr>
