@@ -14,7 +14,7 @@ Hi, I'm Adrián Ramírez!
 <hr>
 
 <pre>
-💻 I am a junior full stack programmer
+💻 I am a junior full stack developer
 📚 I have a Superior degree in cross-platform application development from the Institute Nicolau Copernic at Spain
 📝 I have a strong interest in Data Science
 🌟 Main languages: Java, HTML, SQL
