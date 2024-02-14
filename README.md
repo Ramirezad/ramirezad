@@ -23,7 +23,7 @@ Hi, I'm Adrián Ramírez!
 <hr>
 
 ## 🤝 Connect with me
-<p align="center">
+<p>
 	<a href="mailto:adramirezlop@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>	
 	<a href="https://github.com/Ramirezad"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>	
 </p>
@@ -45,14 +45,21 @@ Hi, I'm Adrián Ramírez!
     <a href="https://github.com/ramirezad"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>    
 </p>
 
-### 💻 Software and Tools
+### 💻 Software, Tools and Skills
 
 <p>    
     <a href="https://github.com/ramirezad"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/ramirezad"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>    
     <a href="https://github.com/ramirezad"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://github.com/ramirezad"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/ramirezad"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/ramirezad"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>    
 </p>
+<table>
+  <tr>
+      <td><img src="https://logospng.org/download/java/logo-java-4096.png?raw=true" width="200"></td>      
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>       	
+	<td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
+  </tr>
+
+</table>
 </br>
 
