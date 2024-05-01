@@ -17,7 +17,7 @@ Hi, I'm Adrián Ramírez!
 💻 I am a junior full stack developer
 📚 I have a Superior degree in cross-platform application development from the Institute Nicolau Copernic at Spain
 📝 I have a strong interest in Data Science
-🌟 Main languages: Java, HTML, SQL
+🌟 Main languages: Kotlin, Java, HTML, SQL
 🤔 I’m currently open for a new <b>job opportunity</b>
 </pre>
 <hr>
@@ -37,12 +37,15 @@ Hi, I'm Adrián Ramírez!
 <p>
     <a href="https://github.com/ramirezad"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/ramirezad"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://developer.android.com/jetpack"><img alt="Android Jetpack" src="https://img.shields.io/badge/Android%20Jetpack-%2300B0FF.svg?logo=android"></a>
 </p>
+
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
     <a href="https://github.com/ramirezad"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>    
+    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase"></a>
 </p>
 
 ### 💻 Software, Tools and Skills
@@ -54,11 +57,16 @@ Hi, I'm Adrián Ramírez!
     <a href="https://github.com/ramirezad"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>    
 </p>
 <table>
-  <tr>
-      <td><img src="https://logospng.org/download/java/logo-java-4096.png?raw=true" width="200"></td>      
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>       	
-	<td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-  </tr>
+ <tr>
+    <td><img src="https://logospng.org/download/java/logo-java-4096.png?raw=true" width="200"></td>      
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>       
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
+</tr>
+<tr>
+    <td><img src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="200"></td>    
+</tr>
+
+
 
 </table>
 </br>
